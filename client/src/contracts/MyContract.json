@@ -2499,11 +2499,12 @@
       },
       "links": {},
       "address": "0x17faAF75c6E70557Ca0095FB12EbFbe2A8F0eB9F",
-      "transactionHash": "0x506cec2cfb7d68ec847bb3f19696ef0329f2c8a7465bc481c378b2d1318b5d0e"
+      "transactionHash": "0xdf710cb32b95543ca27a3dfd746b06e3a8ac87b82daf9ed3a220b6ec26784fae"
     }
   },
   "schemaVersion": "3.2.5",
-  "updatedAt": "2020-11-05T11:48:12.945Z",
+  "updatedAt": "2020-11-05T12:00:45.696Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },
