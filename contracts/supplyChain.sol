@@ -2,14 +2,15 @@
 pragma solidity >=0.4.22 <0.8.0;
 
 // import libraries 
+import "./Consumer.sol";
 
 contract SupplyChain {
     address payable Owner = msg.sender;
 
-    // constructor ()
-    //     public{
-    //         Owner = msg.sender;
-    //     }
+    constructor ()
+        public{
+            Owner = msg.sender;
+        }
 
     modifier onlyOwner(){
         require(

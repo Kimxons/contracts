@@ -2,10 +2,10 @@ import json
 from web3 import Web3, HTTPProvider
 
 # truffle dev blockchain address
-address = "http://127.0.0.1:9545" 
+addr = "http://127.0.0.1:9545" 
 
 # client instance to interact with the blockchain
-web3 = Web3(HTTPProvider(address))
+web3 = Web3(HTTPProvider(addr))
 
 # default account
 web3.eth.defaultAccount = web3.eth.accounts[0]

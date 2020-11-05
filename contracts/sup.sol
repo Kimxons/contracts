@@ -1,6 +1,12 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.4.22 <0.8.0;
 
+import "./Farmer.sol";
+import "./Distributor.sol";
+import "./Retailer.sol";
+import "./Consumer.sol";
+
+
 contract MyContract {
     address private Owner;
 
