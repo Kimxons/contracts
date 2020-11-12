@@ -10,7 +10,7 @@ module.exports = {
 	networks: {
 		development: {
 			host: "127.0.0.1",
-			port: 9545,
+			port: 8545,
 			network_id: "*", //to match ay network id
 			websockets: true
 		},
@@ -20,7 +20,7 @@ module.exports = {
 			network_id: 1
 		},
 		etherscan: {
-			apikey: "AW9BDBGDU3KF469TM1SG25D7XNWJTF98I5"
+			apikey: "etherscan_api_key"
 		},
 		sourceFetchers: ["sourcify", "etherscan"]
 	}
