@@ -2,8 +2,8 @@
 Working with smartcontracts 
 
 language stack: 
-python
-solidity
+python,
+solidity, and 
 javascript
 
 compile : 
