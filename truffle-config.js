@@ -18,11 +18,7 @@ module.exports = {
 			host: "*", 
 			port: 8080,
 			network_id: 1
-		},
-		etherscan: {
-			apikey: "etherscan_api_key"
-		},
-		sourceFetchers: ["sourcify", "etherscan"]
+		}
 	}
 };
 

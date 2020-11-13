@@ -1,0 +1,10 @@
+
+Morpheus.Network uses blockchain technology to create a transparent, and efficient platform to streamline and automate the global supply chain. We utilize public and permissioned blockchains as well as sidechains to utilize blockchain's decentralized advantages while maintaining the security and privacy of user’s data.
+
+Automation is achieved utilizing Smart Contracts, driving the supply chain with predetermined, automated work contracts, shipping & customs documents as well as automated international payments. The layering of other Blockchain technologies, as a part of, or an objective in the Smart Contract, is another key feature further enabling supply chain automation.
+
+Documents are secured by encryption, and storage in an off-chain container. Once data has been written to a blockchain, no one - not even a system administrator - can change it without consent of the rest of the network. This creates a secure audit trail of all documents and transactions to ensure compliance with local regulations.
+
+A fully integrated system across the entire supply chain, from the moment a shipment leaves the production facility, to the final delivery on the customer's doorstep.
+
+Every shipment is federated & validated in trustless, transparent blockchain contracts.
