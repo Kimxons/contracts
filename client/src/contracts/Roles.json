@@ -211,10 +211,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        616,
-                        617
+                        620,
+                        621
                       ],
-                      "referencedDeclaration": 616,
+                      "referencedDeclaration": 620,
                       "src": "226:7:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -337,10 +337,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        616,
-                        617
+                        620,
+                        621
                       ],
-                      "referencedDeclaration": 616,
+                      "referencedDeclaration": 620,
                       "src": "266:7:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -652,10 +652,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        616,
-                        617
+                        620,
+                        621
                       ],
-                      "referencedDeclaration": 616,
+                      "referencedDeclaration": 620,
                       "src": "416:7:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -762,10 +762,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        616,
-                        617
+                        620,
+                        621
                       ],
-                      "referencedDeclaration": 616,
+                      "referencedDeclaration": 620,
                       "src": "456:7:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -1077,10 +1077,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        616,
-                        617
+                        620,
+                        621
                       ],
-                      "referencedDeclaration": 616,
+                      "referencedDeclaration": 620,
                       "src": "634:7:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -1487,10 +1487,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        616,
-                        617
+                        620,
+                        621
                       ],
-                      "referencedDeclaration": 616,
+                      "referencedDeclaration": 620,
                       "src": "226:7:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -1613,10 +1613,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        616,
-                        617
+                        620,
+                        621
                       ],
-                      "referencedDeclaration": 616,
+                      "referencedDeclaration": 620,
                       "src": "266:7:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -1928,10 +1928,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        616,
-                        617
+                        620,
+                        621
                       ],
-                      "referencedDeclaration": 616,
+                      "referencedDeclaration": 620,
                       "src": "416:7:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -2038,10 +2038,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        616,
-                        617
+                        620,
+                        621
                       ],
-                      "referencedDeclaration": 616,
+                      "referencedDeclaration": 620,
                       "src": "456:7:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -2353,10 +2353,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        616,
-                        617
+                        620,
+                        621
                       ],
-                      "referencedDeclaration": 616,
+                      "referencedDeclaration": 620,
                       "src": "634:7:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -2566,8 +2566,7 @@
   },
   "networks": {},
   "schemaVersion": "3.2.5",
-  "updatedAt": "2020-11-05T12:00:45.708Z",
-  "networkType": "ethereum",
+  "updatedAt": "2020-11-13T08:39:36.831Z",
   "devdoc": {
     "methods": {}
   },

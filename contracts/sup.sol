@@ -6,16 +6,17 @@ import "./Distributor.sol";
 import "./Retailer.sol";
 import "./Consumer.sol";
 
+// import "@openzeppelin/contracts/access/Ownable.sol";
 
+// this works similar to the openezeppelin contract - Ownable.sol
 contract MyContract {
     address private Owner;
 
     event TransferOwnership(
-        address 
-        indexed oldOwner, 
-        address 
-        indexed newOwner
-        );
+        address indexed oldOwner, 
+      
+        address indexed newOwner
+    );
 
     function owner() 
         public 
@@ -29,9 +30,12 @@ contract MyContract {
         _;
     }
 
-    function isOwner() public view returns (bool) {
-        return msg.sender == Owner;
-    }
+    function isOwner() 
+        public 
+        view 
+        returns (bool) {
+            return msg.sender == Owner;
+        }
 
     function renounceOwnership() 
         public onlyOwner {
