@@ -6,8 +6,6 @@ import "./Distributor.sol";
 import "./Retailer.sol";
 import "./Consumer.sol";
 
-// import "@openzeppelin/contracts/access/Ownable.sol";
-
 // this works similar to the openezeppelin contract - Ownable.sol
 contract MyContract {
     address private Owner;
